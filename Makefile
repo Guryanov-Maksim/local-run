@@ -3,3 +3,4 @@ test:
 
 lint:
 	npx eslint downcaseFileNames.js
+	

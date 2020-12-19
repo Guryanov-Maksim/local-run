@@ -2,3 +2,4 @@
 downcaseFileNames.js
 /__tests__/downcaseFileNames.test.js
 downcaseFileNames.js
+package-lock.json
