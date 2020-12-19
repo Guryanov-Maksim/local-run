@@ -1,0 +1,4 @@
+/node_modules/
+downcaseFileNames.js
+/__tests__/downcaseFileNames.test.js
+downcaseFileNames.js
