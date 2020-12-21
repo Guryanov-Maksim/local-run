@@ -4,4 +4,4 @@ test:
 	clear && printf "\033c"; npm test
 
 lint:
-	clear && printf "\033c"; npx eslint du.js
+	clear && printf "\033c"; npx eslint index.js
