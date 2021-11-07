@@ -5,3 +5,6 @@ test:
 
 lint:
 	clear && printf "\033c"; npx eslint index.js
+
+install:
+	npm ci
